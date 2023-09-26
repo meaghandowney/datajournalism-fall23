@@ -18,19 +18,18 @@ This is my repository for data journalism DC Northwestern Medill fall 2023.
  
   ## This is a table of the class
 
-  ==============
   Name|Concentration
-  ==============
-  Nicole | PPFA
-  Meaghan | PPFA
-  Annie | MIL
-  Kelly | MIL
-  Andrew | PPFA
-  Kelsey | MIL
-  Haajrah | MIL
-  Emma | MIL
-  Anna | PPFA
-  Phillip | MIL
-  Esther | PPFA
+  | ---------- | ----------|
+  | Nicole | PPFA |
+  | Meaghan | PPFA |
+  | Annie | MIL |
+  | Kelly | MIL |
+  | Andrew | PPFA |
+  | Kelsey | MIL |
+  | Haajrah | MIL |
+  | Emma | MIL |
+  | Anna | PPFA |
+  | Phillip | MIL |
+  | Esther | PPFA |
 
    [My twitter](https://twitter.com/megdowney29)
