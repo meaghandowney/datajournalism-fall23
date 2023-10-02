@@ -36,3 +36,19 @@ The Story I Read: [Lawless: One in three Alaska villages have no local police](h
 
 # ASSIGNMENT 1 – PITCH
 
+*To: Editor*
+
+*Subject: PITCH: The 2020 Rematch*
+
+Dear *Editor*,
+
+While GOP presidential candidates continue to debate on the national stage, former president Donald Trump’s absence is notable yet insignificant. According to recent polling data, [Trump remains the party’s frontrunner](https://projects.fivethirtyeight.com/republican-debate-september-poll/#:~:text=By%20this%20standard%2C%20DeSantis%20was,said%20he%20performed%20the%20worst.), meaning the 2024 presidential election will likely be a 2020 rematch between President Biden and Trump. My story will answer the question: who is voting for each candidate and why?
+
+This story will use data from various polls to determine which demographics are voting for President Biden or former President Trump. I will write a profile on each voter representing the various demographic groups aligned with each candidate, party and/or ideology and conduct an interview to determine:
+* why the subject is voting for a certain candidate,
+* who they voted for in 2020 (if they were eligible to vote then), and 
+* if their identity/beliefs have/will inform their candidate selection. 
+
+This story is timely not only because of the upcoming election, but given that the front runners - both over the age of 75 - have emerged during a time when voters are calling for term limits in Congress and an age limit for political leaders. The demographic I am particularly interested in speaking with are college-age and young adult voters who have expressed concern with [aging political leaders](https://www.pewresearch.org/politics/2023/09/19/americans-dismal-views-of-the-nations-politics/). I will also speak to voters of different economic and education backgrounds, geographic regions, of different gender and sexual identities, and from different religious, ethnic and racial groups.
+
+Given the range of the demographics I want to speak with, I could collect my own dataset by speaking with voters attending the primaries and caucuses scheduled for 2024. It should be noted that the groups in attendance at closed primaries exclude independent voters and usually exclude those who do not regularly participate in elections (i.e. local, state politics), but still may vote in the presidential election.
