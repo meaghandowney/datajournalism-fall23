@@ -1,6 +1,6 @@
 # ASSIGNMENT 3: CLEANING DATA 
 
-* The link to the original dataset can be found [here]
+* The link to the original dataset can be found [here](https://github.com/meaghandowney/datajournalism-fall23/blob/main/hst_vote01%20-%20ORIGINAL.xlsx).
 
 * This  dataset included a lot of demographic information so the only "cleaning" I did was make a separate sheet with the demographic information I needed. In this case, the data I was looking for was voter turnout for the 18-24 age group in presidential elections since 2004.
 
