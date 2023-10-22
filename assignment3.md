@@ -1,6 +1,6 @@
 # ASSIGNMENT 3: CLEANING DATA 
 
-* The link to the original dataset can be found [here](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/voting-historical-time-series.html) and is listed as Table A-1.
+* The link to the original dataset can be found [here]
 
 * This  dataset included a lot of demographic information so the only "cleaning" I did was make a separate sheet with the demographic information I needed. In this case, the data I was looking for was voter turnout for the 18-24 age group in presidential elections since 2004.
 
