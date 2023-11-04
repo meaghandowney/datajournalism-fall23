@@ -1,4 +1,4 @@
-# ASSIGNMENT 3: CLEANING DATA 
+# ASSIGNMENT 3: CLEANING DATA (UPDATED)
 
 * The link to the updated dataset can be found [here](https://github.com/meaghandowney/datajournalism-fall23/commit/bcf43048abb4a251d840dbe56f1b4a36864d1715).
 
